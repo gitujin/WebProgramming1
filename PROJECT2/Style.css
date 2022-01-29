@@ -52,8 +52,8 @@ body{
     position: relative;
 }
 .outer-menu-item:hover{
-    background: rgb(255, 157, 157);
-    color: rgb(184, 39, 39);
+    background: rgb(145, 182, 250);
+    color: rgb(3, 111, 184);
 }
 
 .menu-title{
